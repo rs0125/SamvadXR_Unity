@@ -14,6 +14,9 @@ Learners end up knowing *what* to say, but not *how*, *when*, or *why* to say it
 
 ## The Solution
 
+<img width="1072" height="509" alt="image" src="https://github.com/user-attachments/assets/16f974f1-a766-4c1c-802e-b185e85565a3" />
+
+
 Samvad XR bridges this gap by providing a safe, immersive VR environment where users **learn by doing**:
 
 - **Context Over Content** — Instead of isolated words, users face real-world scenarios with a culturally aware AI vendor.
@@ -24,6 +27,8 @@ Samvad XR bridges this gap by providing a safe, immersive VR environment where u
 ---
 
 ## Architecture
+
+<img width="1622" height="810" alt="image" src="https://github.com/user-attachments/assets/0c888b43-cada-4da0-a361-32c47befaee8" />
 
 
 ---
